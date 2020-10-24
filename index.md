@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## playarea.org
 
-You can use the [editor on GitHub](https://github.com/playarea411/playarea411.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Find parks and recreation!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
