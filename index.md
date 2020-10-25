@@ -1,6 +1,6 @@
 ## playarea.org
 
-Find parks and recreation!
+Find your place to play!
 
 ### TIN PAN ALLEY (2013)
 
