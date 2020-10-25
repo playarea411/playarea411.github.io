@@ -1,6 +1,6 @@
 ## playarea.org
 
-Find your place to play - today!
+Find your place to play.
 
 ### TIN PAN ALLEY
 
