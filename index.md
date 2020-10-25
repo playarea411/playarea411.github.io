@@ -4,7 +4,7 @@ Find your place to play.
 
 ### TIN PAN ALLEY
 
-The story behind the famous street, as told by the television program "Secrets of New York" - hosted by Kelly Choi. Produced in 2013 by NYC Media. 
+The story behind the famous street. "Secrets of New York", hosted by Kelly Choi. (NYC Media, 2013) 
 
 <iframe width="640" height="360" src="https://a002-vod.nyc.gov/html/embedplayer.php?id=2267" frameborder="0" scrolling="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true"></iframe>
 
