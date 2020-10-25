@@ -1,10 +1,10 @@
 ## playarea.org
 
-Find your place to play!
+Find your place to play - today!
 
-### TIN PAN ALLEY (2013)
+### TIN PAN ALLEY (2013) - by NYC Media
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The story about the famous street, as told from the television program "Secrets of New York".
 
 <iframe width="640" height="360" src="https://a002-vod.nyc.gov/html/embedplayer.php?id=2267" frameborder="0" scrolling="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true"></iframe>
 
