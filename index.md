@@ -1,12 +1,5 @@
 ## playarea.org
-Your place to play.
-
-### TIN PAN ALLEY
-
-The story behind the famous street. "Secrets of New York", hosted by Kelly Choi (NYC Media, 2013). 
-
-<iframe width="640" height="360" src="https://a002-vod.nyc.gov/html/embedplayer.php?id=2267" frameborder="0" scrolling="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true"></iframe>
-
+Places to play outside.
 
 ### CENTRAL PARK - NEW YORK
 
@@ -31,6 +24,15 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+
+### TIN PAN ALLEY
+
+The story behind the famous street. "Secrets of New York", hosted by Kelly Choi (NYC Media, 2013). 
+
+<iframe width="640" height="360" src="https://a002-vod.nyc.gov/html/embedplayer.php?id=2267" frameborder="0" scrolling="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" oallowfullscreen="true" msallowfullscreen="true"></iframe>
+
+
 
 ### Jekyll Themes
 
